@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://vikimiki.github.io/rsschool-cv/cv
